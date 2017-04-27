@@ -15,4 +15,3 @@ nltk_data/*
 scikit_learn_data/*
 *.txt
 
-*.pkl
